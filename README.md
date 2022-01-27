@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kasyap3
 - 👀 I’m interested in JAVA and PYTHON coding.
 - 🌱 I’m currently studying B.Tech from VIT.
-- 💞️ I’m looking to collaborate on Full Stack Web Developers
 - 📫 varanasi.20bce7315@vitap.ac.in
 
 <!---
